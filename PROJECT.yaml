@@ -1,5 +1,6 @@
-id: 119b1a9e-0f98-45c2-a767-068b51f384dc
 name: ai-spend-tracker
+project_scope: main
+project_type: standalone
 description: React + TypeScript + Vite
 tier: prototype
 lane: oss
@@ -9,5 +10,6 @@ stack: [typescript, react, convex, vite]
 repo: "https://github.com/mxn2020/ai-spend-tracker"
 deploy_url: null
 last_active: 2026-02-24
-tags: []
-notes: 
+tags: [ai, spending, cost-tracking, analytics, budget, monitoring, finance]
+notes: null
+id: 119b1a9e-0f98-45c2-a767-068b51f384dc

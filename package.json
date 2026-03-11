@@ -8,7 +8,8 @@
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "test": "vitest run --passWithNoTests"
+    "test": "vitest run --passWithNoTests",
+    "stop": "pkill -f 'vite.*ai-spend-tracker' || true"
   },
   "dependencies": {
     "@vercel/analytics": "^1.6.1",
@@ -37,7 +38,7 @@
     "vite": "^7.3.1",
     "vitest": "^4.0.18"
   },
-  "description": "React + TypeScript + Vite",
+  "description": "Track and manage AI API spending across providers like OpenAI and Anthropic",
   "author": "Mehdi Nabhani",
   "license": "MIT",
   "keywords": [
