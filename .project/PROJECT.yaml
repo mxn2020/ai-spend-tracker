@@ -1,0 +1,16 @@
+name: ai-spend-tracker
+project_scope: main
+project_type: standalone
+description: Track and manage AI API spending across providers like OpenAI and Anthropic
+tier: prototype
+lane: open-source
+priority: medium
+oss: true
+stack: ["typescript", "react", "vite", "convex"]
+repo: "https://github.com/mxn2020/ai-spend-tracker"
+deploy_url: null
+last_active: 2026-03-11
+tags: ["ai-spend-tracker", "convex", "react", "open-source", "ai-tools"]
+notes: null
+id: null
+category: oss-tool
