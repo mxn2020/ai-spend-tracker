@@ -40,7 +40,7 @@
   },
   "description": "Track and manage AI API spending across providers like OpenAI and Anthropic",
   "author": "Mehdi Nabhani",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "keywords": [
     "ai",
     "spend",
